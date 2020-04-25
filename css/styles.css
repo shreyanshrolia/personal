@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #7f7272;
+  line-height: 2;
+}
+h1{
+  font-size: 80px;
+  color: #66Bfbf;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+   color: #66bfbf;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   margin: 0;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+h4{
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 0;
+  font-weight: normal;
+}
+span{
+  text-decoration: underline;
+}
+hr{
+  border:none;
+  border-top:5px dotted #eaf6f6;
+  width: 10%;
+}
+a{
+  color: #11999e;
+  margin: 50px 20px 50px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.first{
+  background-color:#E4f6f6;
+  position: relative;
+  padding-top: 200px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 30px;
+}
+.personalpic{
+  border-radius: 100%;
+  width: 20%;
+}
+.cloud-top{
+  position: absolute;
+  right: 150px;
+  top: 150px;
+}
+.cloud-bottom{
+  position: absolute;
+  left: 150px;
+  top: 350px;
+}
+.mountain{
+  padding-top: 120px;
+   width: 35%;
+   height: 35%;
+}
+.profile{
+  padding: 50px;
+}
+.skills{
+  padding: 50px;
+}
+.contact-me{
+  padding: 50px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.computer{
+  border-radius: 100%;
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.chilli{
+  border-radius: 100%;
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.last-tag{
+  color: white;
+  font-size: 0.75em;
+  padding: 20px;
+}
+.double-line{
+  width: 50%;
+  margin: 30px auto;
+}
+.btn {
+  background: -moz-linear-gradient(top,  #1e5799 0%, #7db9e8 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(100%,#7db9e8));
+      background: -webkit-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+      background: -o-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+      background: -ms-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+}
+
+.btn:hover {
+  background: -moz-linear-gradient(top,  #1e5799 0%, #7db9e8 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(100%,#7db9e8));
+      background: -webkit-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+      background: -o-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+      background: -ms-linear-gradient(top,  #1e5799 0%,#7db9e8 100%);
+}
